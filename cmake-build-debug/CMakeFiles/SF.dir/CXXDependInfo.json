@@ -1,0 +1,30 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/ziadh/CLionProjects/SF/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/ziadh/CLionProjects/SF",
+	"dir-top-bld" : "C:/Users/ziadh/CLionProjects/SF/cmake-build-debug",
+	"dir-top-src" : "C:/Users/ziadh/CLionProjects/SF",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\SFML3\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/ziadh/CLionProjects/SF/cmake-build-debug/CMakeFiles/SF.dir",
+	"sources" : 
+	{
+		"CMakeFiles/SF.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/ziadh/CLionProjects/SF/main.cpp"
+		}
+	}
+}
